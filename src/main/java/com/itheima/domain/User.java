@@ -6,4 +6,5 @@ package com.itheima.domain;
  * 不敲代码，你吃屎啦！！！
  */
 public class User {
+    private Integer id;
 }
